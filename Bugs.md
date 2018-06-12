@@ -1,0 +1,5 @@
+- [x] Fix bug fixes
+- [x] Make game more interesting
+- [x] Reset game when finished
+- [x] Save the game
+- [x] build and run the game
